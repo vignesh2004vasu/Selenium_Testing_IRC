@@ -1,0 +1,11 @@
+2024-05-16 09:53:46 INFO  AppTest:23 - Test started
+2024-05-16 09:53:46 INFO  AppTest:25 - Clicking on the top navigation link
+2024-05-16 09:53:59 INFO  AppTest:29 - Scrolling down
+2024-05-16 09:53:59 INFO  AppTest:33 - Selecting AMC
+2024-05-16 09:54:10 INFO  AppTest:40 - Selecting scheme name
+2024-05-16 09:54:20 INFO  AppTest:47 - Clicking on anchor
+2024-05-16 09:54:35 INFO  AppTest:55 - Switched to new tab
+2024-05-16 09:54:35 INFO  AppTest:60 - Selecting options from dropdown
+2024-05-16 09:54:40 INFO  AppTest:88 - Clicking on returns tab
+2024-05-16 09:54:45 INFO  AppTest:93 - Getting text of printthis element
+2024-05-16 09:54:45 INFO  AppTest:96 - Text of printthis element: Annualized Returns 0.89 4.58 17.29 27.90 17.36 19.70
